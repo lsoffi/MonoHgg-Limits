@@ -1,0 +1,27 @@
+#!/bin/bash
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9 -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9 --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 300 --suffix ""
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9 -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9 --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 400  --suffix ""
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9 -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9 --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 500 --suffix ""
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9 -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9 --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 600  --suffix ""
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9 -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9 --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 700 --suffix ""
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9 -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9 --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 800 --suffix ""
+
+#LowMET
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_LowMET -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_LowMET --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 300 --suffix "_LowMET"
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_LowMET -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_LowMET --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 400 --suffix "_LowMET"
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_LowMET -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_LowMET --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 500 --suffix "_LowMET"
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_LowMET -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_LowMET --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 600 --suffix "_LowMET"
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_LowMET -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_LowMET --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 700 --suffix "_LowMET"
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_LowMET -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_LowMET --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 800 --suffix "_LowMET"
+
+
+
+#HighMET
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_HighMET -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_HighMET --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 300 --suffix "_HighMET"
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_HighMET -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_HighMET --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 400 --suffix "_HighMET"
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_HighMET -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_HighMET --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 500 --suffix "_HighMET"
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_HighMET -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_HighMET --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 600 --suffix "_HighMET"
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_HighMET -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_HighMET --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 700 --suffix "_HighMET"
+./limit_plots_MonoHgg.py --do-limits -M Asymptotic --input-dir ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_HighMET -O ~/www/plotsMonoH/FitLimits/ntuples4fit_pho_met0_met130_cic_default_shapes_lumi_35.9_HighMET --label MonoHgg --lumi 35.9 --use-fb --load lumi_limits.json --mA0 800 --suffix "_HighMET"
+   
+   
