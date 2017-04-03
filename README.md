@@ -38,3 +38,7 @@ source limit_plots_MonoHgg_Scalar.sh
 
 ----------------------------------------
 
+Produce 2D plots:
+root -l
+.L make2Dlimitplots_2017.cc++
+make2Dlimitplots_76X()
